@@ -72,7 +72,7 @@ This project demonstrates data visualization, dashboard design, and business int
 🔗 **Tableau Public:**  
 **Paste your Tableau Public Dashboard Link Here**
 
-
+https://public.tableau.com/views/FitbitHealthActivityDashboard/Charts-StepsbyCategory?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
