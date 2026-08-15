@@ -1,4 +1,4 @@
-# fitbit-tableau-dashboard
+#fitbit-health-activity-dashboard
 Interactive Fitbit Fitness Dashboard built using Tableau.
 # Fitbit Activity Dashboard
 
