@@ -102,8 +102,7 @@ The repository includes the dataset files and a PDF describing the dataset struc
 **Shweta Vanarse**
 
 - GitHub: https://github.com/shwetavanarse
-- Tableau Public: *https://public.tableau.com/views/FitbitHealthActivityDashboard/Charts-StepsbyCategory?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-*
+- Tableau Public: *https://public.tableau.com/views/FitbitHealthActivityDashboard/Charts-StepsbyCategory?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link*
 
 ---
 
