@@ -70,9 +70,9 @@ This project demonstrates data visualization, dashboard design, and business int
 ## 🌐 Live Dashboard
 
 🔗 **Tableau Public:**  
-**Paste your Tableau Public Dashboard Link Here**
+**https://public.tableau.com/views/FitbitHealthActivityDashboard/Charts-StepsbyCategory?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+**
 
-https://public.tableau.com/views/FitbitHealthActivityDashboard/Charts-StepsbyCategory?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
@@ -102,7 +102,8 @@ The repository includes the dataset files and a PDF describing the dataset struc
 **Shweta Vanarse**
 
 - GitHub: https://github.com/shwetavanarse
-- Tableau Public: *(Add your Tableau Public profile link here)*
+- Tableau Public: *https://public.tableau.com/views/FitbitHealthActivityDashboard/Charts-StepsbyCategory?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+*
 
 ---
 
